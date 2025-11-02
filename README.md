@@ -13,7 +13,7 @@
 ---
 
 ### 📫 Find Me On:  
-[LinkedIn](linkedin.com/in/hargun-atwal-83911b20b)  
+**LinkedIn:** [linkedin.com/in/hargun-atwal-83911b20b](linkedin.com/in/hargun-atwal-83911b20b)  
 
 *or anywhere on the globe... i love traveling*
 
