@@ -2,7 +2,7 @@
 
 🎓 **B.S. in Computer Science**  
 💼 **Data Engineer** passionate about creative problem-solving, statistical analytics, and collaborative progress  
-💬 **Currently** diving deep into personal side-projects involving data processing & automation  
+💬 **Currently...** diving deep into personal side-projects involving data processing & automation  
 
 ---
 
