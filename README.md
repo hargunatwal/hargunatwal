@@ -13,7 +13,7 @@
 ---
 
 ### 📫 Find Me On:  
-**LinkedIn:** [The Boy](https://linkedin.com/in/hargun-atwal-83911b20b)  
+**LinkedIn:** [Hargun Singh Atwal](https://linkedin.com/in/hargun-atwal-83911b20b)  
 
 *or anywhere on the globe... i love traveling*
 
