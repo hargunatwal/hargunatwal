@@ -8,7 +8,9 @@
 
 ### 🧠 Tech Stack  
 **Languages:** Python, SQL  
-**Data Tools:** Airflow, AWS, Power Automate, Snowflake  
+**Data Tools:** Airflow, AWS S3 & Lambda, Power Automate, Snowflake  
+
+*Looking to unlock PySpark through my next side project...*
 
 ---
 
